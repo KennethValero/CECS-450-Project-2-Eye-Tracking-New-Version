@@ -1,0 +1,9 @@
+plotly
+matplotlib
+pandas
+xlrd
+openpyxl
+tk
+dash
+numpy
+pillow
